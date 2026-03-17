@@ -46,14 +46,14 @@ class Flipcart{
         await newPage.close();
     }
 
-     async openCart(){
+    async openCart(){
 
         await this.cart.click();
 
     }
 
    async updateQuantity(index:number,value:string){
-    await this.quantity.nth(index).fill(value);
+     this.quantity.nth(index).fill(value);
 }
 
 }
