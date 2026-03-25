@@ -1,0 +1,10 @@
+{
+    "url" : "https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login",
+    "firstName" : "Rahul",
+    "lastName" : "Agarwal",
+    "postcode" : "202031",
+    "currency" : "Dollar",
+    "depositAmount" : "1000",
+    "withdrawAmount" : "600",
+    "expectedAmount" : "400"
+}
